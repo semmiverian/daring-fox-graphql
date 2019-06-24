@@ -1,0 +1,14 @@
+{
+  "name": "microservices",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Semmi Verian <semmivp1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1",
+    "express-graphql": "0.8.0",
+    "graphql": "14.3.1",
+    "mongoose": "5.6.0",
+    "redis": "2.8.0"
+  }
+}
